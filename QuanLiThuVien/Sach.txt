@@ -1,0 +1,4 @@
+LTHDT#Lập trình hướng đối tượng#Nguyễn Bá Trọng#ĐH SPKTHY#2016#100
+PNC#Pascal nâng cao#Quách Tuấn Ngọc#ĐH SPKTHY#2016#120
+Java1#Java cơ bản#Nguyễn Bá Trọng#ĐH SPKTHY#2015#130
+Java2#Java nâng cao#Nguyễn Bá Trọng#ĐH SPKTHY#2015#150
